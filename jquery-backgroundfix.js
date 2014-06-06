@@ -1,4 +1,7 @@
 /**
+ * Created by 赤菁风铃 on 14-6-6.
+ * author 清月_荷雾(441984145@qq.com)
+ *        赤菁风铃(liuxuanzy@qq.com)
  * jquery background fix
  */
 (function (jQuery) {
