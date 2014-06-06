@@ -10,9 +10,9 @@
 
     if (!jQuery.support.BackgroundPositionXY) {
         jQuery.each(backgroundPositionExpand, function (i, direct) {
-        jQuery.cssHooks["backgroundPosition" + direct] = {
-            get: function (elem, computed) {
-                var style = (computed ? jQuery.css(elem, "background-position") : jQuery.style(elem, "background-position") || "0 0").split(" ");
+            jQuery.cssHooks["backgroundPosition" + direct] = {
+                get: function (elem, computed) {
+                    var style = (computed ? jQuery.css(elem, "background-position") : jQuery.style(elem, "background-position") || "0 0").split(" ");
                     return style[i];
                 },
                 set: function (elem, value) {
