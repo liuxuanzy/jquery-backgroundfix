@@ -1,0 +1,16 @@
+{
+    "name": "jquery-backgroundfix",
+    "version": "1.0.0",
+    "main": "jquery-backgroundfix.js",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "*.md",
+        "LICENSE"
+    ],
+    "keywords": [
+        "jquery",
+        "background",
+        "position"
+    ]
+}
