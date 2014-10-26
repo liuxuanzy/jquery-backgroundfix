@@ -8,6 +8,14 @@
         "*.md",
         "LICENSE"
     ],
+    "authors": [
+        { "name": "清月_荷雾", "email": "441984145@qq.com" },
+        { "name": "赤菁风铃", "email": "liuxuanzy@qq.com" }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/liuxuanzy/jquery-backgroundfix.git"
+    },
     "keywords": [
         "jquery",
         "background",
